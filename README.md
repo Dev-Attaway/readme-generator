@@ -1,4 +1,4 @@
-# readme-generator
+# README Generator
 ![License Badge](https://shields.io/badge/license-MIT-green)
 ## Table of Contents
 1. [Description](#description)
@@ -10,7 +10,7 @@
 7. [Questions](#questions)
 
 ## Description
-readme-generator uses modularized code and JSON packages such as inquierer to generate a README.md file.
+readme-generator uses modularized code and JSON packages such as inquirer to generate a README.md file.
 ## Installation
 Fork the project from GitHub
 ## Usage
@@ -20,8 +20,8 @@ Fork code for personal additions
 ## Tests
 
 ## License
-Please see https://mit-license.org/ to get detailed information for this license
+Please see https://mit-license.org/ to get detailed information about this license
 
 ## Questions
-You can find me [HERE](https://github.com/Dev-Attaway) on Github
+You can find me [HERE](https://github.com/Dev-Attaway) on GitHub
 You can email me at attaway.code@gmail.com if you have any additional questions.
